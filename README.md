@@ -1,7 +1,12 @@
-The Write Page of the Blog App which allows a user to write new blogs. ![Blog_App_Write](https://github.com/akshat2013soni/blog_app/assets/56476130/34e98221-5f77-4357-af04-a810c25890c1)
-The Home Page of the Blog App which allows a user to read latest blogs. ![Blog_App_home](https://github.com/akshat2013soni/blog_app/assets/56476130/f575cefc-6f1f-4291-9e33-3d0f9b8848f6)
-Page which shows the details of particular blog when clicked on home page. ![Blog_App_blog_detailed](https://github.com/akshat2013soni/blog_app/assets/56476130/4ff4f167-bb77-414d-81cb-bea3f8420eda)
-User account page, shows basic user details, redirected when clicked on the user icon. ![Blog_App_account](https://github.com/akshat2013soni/blog_app/assets/56476130/4a74afdc-a4d0-42e6-bbc7-6094dc996681)
+The Write Page of the Blog App which allows a user to write new blogs.
+![Blog_App_Write](https://github.com/akshat2013soni/blog_app/assets/56476130/34e98221-5f77-4357-af04-a810c25890c1)
+The Home Page of the Blog App which allows a user to read latest blogs.
+![Blog_App_home](https://github.com/akshat2013soni/blog_app/assets/56476130/f575cefc-6f1f-4291-9e33-3d0f9b8848f6)
+Page which shows the details of particular blog when clicked on home page.
+![Blog_App_blog_detailed](https://github.com/akshat2013soni/blog_app/assets/56476130/4ff4f167-bb77-414d-81cb-bea3f8420eda)
+User account page, shows basic user details, redirected when clicked on the user icon.
+![Blog_App_account](https://github.com/akshat2013soni/blog_app/assets/56476130/4a74afdc-a4d0-42e6-bbc7-6094dc996681)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
